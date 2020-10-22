@@ -11,8 +11,8 @@ Project aims to create Yelp Alternative Application with React Native.
 
 ## Expected Outcome
 
-<img src= "Screenshot_1.jpg" width =250 > <img src= "Screenshot_2.jpg" width =250 >
-<img src= "Screenshot_3.jpg" width =250 > <img src= "Screenshot_4.jpg" width =250 >
+<img src= "Screenshot_1.jpg" width =400 > <img src= "Screenshot_2.jpg" width =400 >
+<img src= "Screenshot_3.jpg" width =400 > <img src= "Screenshot_4.jpg" width =400 >
 
 
 
