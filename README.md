@@ -11,11 +11,10 @@ Project aims to create Yelp Alternative Application with React Native.
 
 ## Expected Outcome
 
-![Project 000 Snapshot](./images/001.png)
+<img src= "Screenshot_1.jpg" width =250 > <img src= "Screenshot_2.jpg" width =250 >
+<img src= "Screenshot_3.jpg" width =250 > <img src= "Screenshot_4.jpg" width =250 >
 
-![Project 000 Snapshot](./images/002.png)
 
-![Project 000 Snapshot](./images/003.jpg)
 
 ### At the end of the project, following topics are to be covered;
 
