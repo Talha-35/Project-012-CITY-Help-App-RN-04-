@@ -1,4 +1,5 @@
 # Project-011 : City-Yelp App (RN-04)
+Project aims to create Yelp Alternative Application with React Native.
 
 ## Description
 
